@@ -14,6 +14,7 @@ public class SpringMailSenderApplication {
 	System.out.println("app runnning");
 	System.out.println("Changes By Sneha");
       System.out.println("app runnning--------Demo");
+	      System.out.println("Changes by shubham");
 
 	}
 
