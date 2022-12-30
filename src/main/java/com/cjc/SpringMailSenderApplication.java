@@ -12,6 +12,8 @@ public class SpringMailSenderApplication {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run = SpringApplication.run(SpringMailSenderApplication.class, args);
 	System.out.println("app runnning");
+        System.out.println("app runnning--------Demo");
+
 	}
 
 }
